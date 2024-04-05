@@ -45,6 +45,7 @@ If you prefer to use Docker, you can build and run the `chat_with_lm_studio.py` 
     Use the following command to build a Docker image named `chat_with_llm` from the Dockerfile located in your project directory. This process involves downloading the base image, installing any required dependencies, and setting up the environment as specified in your Dockerfile.
 
    ```console
+   cd local_chat
    docker build -t chat_with_llm .
    ```
 2. **Run the Container**:
