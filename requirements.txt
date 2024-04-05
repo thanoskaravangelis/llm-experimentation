@@ -1,0 +1,12 @@
+openai
+huggingface_hub
+transformers
+ipykernel
+ipywidgets
+pandas
+nltk
+spacy
+textblob
+torch
+torchvision
+torchaudio
